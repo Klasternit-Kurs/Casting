@@ -29,7 +29,7 @@ namespace Casting
 			nekaVrednost += 2;
 			nekaVrednost -= 5;
 			nekaVrednost /= 3;
-
+			//Neke promene
 			
 			int broj = 0;
 
